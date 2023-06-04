@@ -1,4 +1,4 @@
-# XO-Game-Developed-on-Unity
+# XO-Game-Developed-on-Java
 
 TO RUN using netbeans: 
     1- Import the project into netbeans.
